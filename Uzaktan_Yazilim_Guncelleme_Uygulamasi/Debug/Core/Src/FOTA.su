@@ -1,0 +1,5 @@
+FOTA.c:19:6:FOTA_main	32	static,ignoring_inline_asm
+FOTA.c:119:6:initial_arrangement	8	static
+FOTA.c:135:6:endiannes_arrangement	32	static
+FOTA.c:155:6:Flash_erase	16	static
+FOTA.c:172:9:convertChartoHex	24	static

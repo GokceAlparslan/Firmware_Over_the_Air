@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="endiannes_arrangement"/>
+		<list key="findhistory">
+			<item value="endiannes_arrangement"/>
+			<item value="Buffer_size"/>
+			<item value="convertChartoHex"/>
+			<item value="check_connected_or_invalid_link"/>
+			<item value="uint32_t* get_data_from_wifi_module(UART_HandleTypeDef *huartx,uint8_t linenum"/>
+			<item value="uint32_t* get_data_from_wifi_module(UART_HandleTypeDef *huartx,uint8_t linenumber)"/>
+			<item value="Check_connect_or_close_situation"/>
+			<item value="Check_first_response"/>
+			<item value="Flag_START_bit"/>
+			<item value="Flag_STOP_bit"/>
+			<item value="scan_index"/>
+			<item value="linenumber"/>
+			<item value="stop_bit_type"/>
+			<item value="veri_akisi"/>
+			<item value="check_the_start_bits"/>
+		</list>
+		<list key="replacehistory">
+			<item value="check_connect_or_close_situation"/>
+			<item value="check_first_response"/>
+			<item value="Flag_START_bit_u8"/>
+			<item value="Flag_STOP_bit_u8"/>
+			<item value="scan_index_u32"/>
+			<item value="linenumber_u32"/>
+			<item value="stop_bit_type_u8"/>
+			<item value="veri_akisi_u8"/>
+			<item value="ESP_datas.requestment_type_u8"/>
+			<item value="ESP_datas.flash_son_adres_eki"/>
+			<item value="ESP_datas.SGTD_index"/>
+			<item value="ESP_datas.Firmware_version_on_board_u32"/>
+			<item value="ESP_datas.Firmware_version_on_server_u32"/>
+			<item value="FIRMWARE_VERSIYON_ON_BOARD"/>
+			<item value="connection_status_with_server"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1382"/>
+		<item key="DIALOG_Y_ORIGIN" value="247"/>
+		<item key="DIALOG_WIDTH" value="466"/>
+		<item key="DIALOG_HEIGHT" value="496"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

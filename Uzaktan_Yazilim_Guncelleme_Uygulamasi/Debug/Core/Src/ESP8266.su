@@ -1,0 +1,10 @@
+ESP8266.c:12:6:RX_Callback	16	static
+ESP8266.c:27:6:get_data_from_wifi_module	40	static
+ESP8266.c:51:6:check_message_type	48	static
+ESP8266.c:250:6:send_command_to_server	24	static
+ESP8266.c:303:6:check_start_and_stop_bits	16	static
+ESP8266.c:342:6:check_stop_bits	16	static
+ESP8266.c:358:6:check_first_response	16	static
+ESP8266.c:386:6:check_connected_or_invalid_link	16	static
+ESP8266.c:416:6:check_connect_or_close_situation	16	static
+ESP8266.c:440:6:reset_terminal_datas	16	static
